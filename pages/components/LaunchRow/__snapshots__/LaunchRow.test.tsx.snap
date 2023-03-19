@@ -1,0 +1,184 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`LaunchRow should match snapshot 1`] = `
+{
+  "asFragment": [Function],
+  "baseElement": <body>
+    <div>
+      <tr>
+        <td>
+          <div
+            class="transactionDetail"
+          >
+            <div
+              aria-hidden="true"
+              class="avatar"
+            >
+              <img
+                class="avatarImage"
+                src="https://images2.imgbox.com/94/f2/NN6Ph45r_o.png"
+              />
+            </div>
+            <div
+              class="transaction-description"
+            >
+              FalconSat
+              <div
+                class="transactionCategory"
+              >
+                id: 
+                5eb87cd9ffd86e000604b32a
+              </div>
+              <div
+                class="transactionCategory"
+              >
+                coreId: 
+                5e9e289df35918033d3b2623
+              </div>
+            </div>
+          </div>
+        </td>
+        <td>
+          <div>
+            24 Mar 2006
+          </div>
+        </td>
+        <td>
+          <div>
+            Failure
+          </div>
+          <div
+            class="failureDescription"
+          >
+            <div>
+              Time: 
+              33
+            </div>
+            <div>
+              Altitude: 
+              34
+            </div>
+            <div>
+              Reason: 
+              merlin engine failure
+            </div>
+          </div>
+        </td>
+      </tr>
+    </div>
+  </body>,
+  "container": <div>
+    <tr>
+      <td>
+        <div
+          class="transactionDetail"
+        >
+          <div
+            aria-hidden="true"
+            class="avatar"
+          >
+            <img
+              class="avatarImage"
+              src="https://images2.imgbox.com/94/f2/NN6Ph45r_o.png"
+            />
+          </div>
+          <div
+            class="transaction-description"
+          >
+            FalconSat
+            <div
+              class="transactionCategory"
+            >
+              id: 
+              5eb87cd9ffd86e000604b32a
+            </div>
+            <div
+              class="transactionCategory"
+            >
+              coreId: 
+              5e9e289df35918033d3b2623
+            </div>
+          </div>
+        </div>
+      </td>
+      <td>
+        <div>
+          24 Mar 2006
+        </div>
+      </td>
+      <td>
+        <div>
+          Failure
+        </div>
+        <div
+          class="failureDescription"
+        >
+          <div>
+            Time: 
+            33
+          </div>
+          <div>
+            Altitude: 
+            34
+          </div>
+          <div>
+            Reason: 
+            merlin engine failure
+          </div>
+        </div>
+      </td>
+    </tr>
+  </div>,
+  "debug": [Function],
+  "findAllByAltText": [Function],
+  "findAllByDisplayValue": [Function],
+  "findAllByLabelText": [Function],
+  "findAllByPlaceholderText": [Function],
+  "findAllByRole": [Function],
+  "findAllByTestId": [Function],
+  "findAllByText": [Function],
+  "findAllByTitle": [Function],
+  "findByAltText": [Function],
+  "findByDisplayValue": [Function],
+  "findByLabelText": [Function],
+  "findByPlaceholderText": [Function],
+  "findByRole": [Function],
+  "findByTestId": [Function],
+  "findByText": [Function],
+  "findByTitle": [Function],
+  "getAllByAltText": [Function],
+  "getAllByDisplayValue": [Function],
+  "getAllByLabelText": [Function],
+  "getAllByPlaceholderText": [Function],
+  "getAllByRole": [Function],
+  "getAllByTestId": [Function],
+  "getAllByText": [Function],
+  "getAllByTitle": [Function],
+  "getByAltText": [Function],
+  "getByDisplayValue": [Function],
+  "getByLabelText": [Function],
+  "getByPlaceholderText": [Function],
+  "getByRole": [Function],
+  "getByTestId": [Function],
+  "getByText": [Function],
+  "getByTitle": [Function],
+  "queryAllByAltText": [Function],
+  "queryAllByDisplayValue": [Function],
+  "queryAllByLabelText": [Function],
+  "queryAllByPlaceholderText": [Function],
+  "queryAllByRole": [Function],
+  "queryAllByTestId": [Function],
+  "queryAllByText": [Function],
+  "queryAllByTitle": [Function],
+  "queryByAltText": [Function],
+  "queryByDisplayValue": [Function],
+  "queryByLabelText": [Function],
+  "queryByPlaceholderText": [Function],
+  "queryByRole": [Function],
+  "queryByTestId": [Function],
+  "queryByText": [Function],
+  "queryByTitle": [Function],
+  "rerender": [Function],
+  "unmount": [Function],
+}
+`;
