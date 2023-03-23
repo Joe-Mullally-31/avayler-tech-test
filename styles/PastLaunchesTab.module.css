@@ -1,0 +1,7 @@
+.paginationBar {
+  color: white;
+  background-color: var(--primary-300);
+  margin-top: var(--spacer-medium);
+  padding: var(--spacer-small);
+  border-radius: 4px;
+}

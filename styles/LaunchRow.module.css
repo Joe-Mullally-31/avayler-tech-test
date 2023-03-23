@@ -1,0 +1,17 @@
+.transactionDetail {
+  display: grid;
+  grid-template-columns: min-content 1fr;
+  gap: var(--spacer-medium);
+}
+
+.transactionCategory {
+  font-size: 0.875rem;
+  color: var(--primary-300);
+  font-weight: 400;
+}
+
+.failureDescription {
+  font-size: 0.875rem;
+  color: var(--primary-300);
+  font-weight: 400;
+}
